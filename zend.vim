@@ -1,3 +1,5 @@
+colors_name = 'zend'
+
 set background=light
 hi clear
 
